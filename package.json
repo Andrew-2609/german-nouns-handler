@@ -1,0 +1,17 @@
+{
+  "name": "german-nouns-handler",
+  "private": "true",
+  "version": "1.0.0",
+  "description": "Helper project to handle German nouns from a .txt file and save them in a .json file",
+  "main": "src/index.js",
+  "type": "module",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Andrew-2609/german-nouns-handler.git"
+  },
+  "author": {
+    "name": "Andrew Monteiro",
+    "email": "andrew.agoravai@gmail.com"
+  }
+}
