@@ -1,0 +1,16 @@
+# Version :: 1.9 2020-12-22
+# Copyright (c) :: Frank Richter <frank.richter.tu-chemnitz.de>,
+# 1995 - 2020
+# License :: GPL Version 2 or later; GNU General Public License
+# URL :: https://dict.tu-chemnitz.de/
+A {n}; Ais {n}; As {n}; Aisis {n}; Ases {n} [mus.] | A-Dur {n} :: A; A sharp; A flat; A double sharp; A double flat | A major
+das A und O [ugs.] :: the nuts and bolts [coll.]
+A- und B-Boden {m}; A- und B-Horizont {m} (des Bodenprofils) [agr.] [geol.] | A- und B-Böden {pl}; A- und B-Horizonte {pl} :: A and B horizons; solum | A and B horizons; sola; solums
+Aal {m} (auf der Speisekarte) [cook.] | Aal blau; blauer Aal | Aal grün; grüner Aal | Aal in Aspik; Aal in Gelee :: Eel (on a menu) | Eel au bleu; Eel steamed and served with Butter | Boiled Eel served with Parsley Sauce | Jellied Eel
+Aale {pl}; Aalartige {pl} (Anguilliformes) (zoologische Ordnung) :: eels (zoological order)
+Echte Aale {pl}; Flussaale {pl}; Süßwasseraale {pl} (Anguillidae) (zoologische Familie) [zool.] :: freshwater eels (zoological family)
+Aachener {adj} | der Aachener Dom | Aachener Printen [cook.] :: Aachen | the Aachen Cathedral | hard ginger bread from Aachen
+Aachener {m}; Aachenerin {f} (Bewohner Aachens) :: Aachen resident
+Aalbestand {m} | Aalbestände {pl} :: eel stock | eel stocks
+Aalspieß {m} | Aalspieße {pl} :: eel spear | eel spears
+Aalen {n}; Aalenium {n} (erdgeschichtliche Stufe) [geol.] :: Aalenian (stage in the Earth's history)
